@@ -7,7 +7,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript and PHP.
 - 📜 Ask me about HTML, CSS and Bootstrap.
-- 📫 You can reach me through my <a href="www.linkedin.com/in/reddykumaraswamy">LinkedIn</a> profile.
+- 📫 You can reach me through my <a href="www.linkedin.com/in/reddykumaraswamy/">LinkedIn</a> profile.
 
 <!---
 kumaraswamyreddy/kumaraswamyreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
